@@ -7,7 +7,7 @@ Jason Walonoski, Mark Kramer, Joseph Nichols, Andre Quina, Chris Moesel, Dylan H
 ## Reference
 https://synthea.mitre.org/downloads
 
-## Running map - reduce hadoop
+## Running map - reduce
 ```
 cat observations.csv | python3 ~yourhome/fhir-dataset/mapper.py | python3 ~yourhome/fhir-dataset/reducer.py
 ```
