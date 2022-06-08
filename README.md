@@ -23,3 +23,5 @@ https://synthea.mitre.org/downloads
 ```
 cat observations.csv | python3 ~yourhome/fhir-dataset/mapper.py | python3 ~yourhome/fhir-dataset/reducer.py
 ```
+### Running Spark 
+Supported on Google Colab
