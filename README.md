@@ -24,4 +24,7 @@ https://synthea.mitre.org/downloads
 cat observations.csv | python3 ~yourhome/fhir-dataset/mapper.py | python3 ~yourhome/fhir-dataset/reducer.py
 ```
 ### Running Spark 
-Supported on Google Colab
+Implementasi Python Spark menggunakan Apache PySpark untuk klasifikasi gejala yang di alami oleh pasien pada FHIR dataset berdasarkan observasi yang dihasilkan. Ada 4 label klasifikasi, yaitu: `ambulatory`, `wellness`, `outpatient`, dan `wellness`.
+Library yang digunakan :
+- PySparkSQL
+- MLlib
