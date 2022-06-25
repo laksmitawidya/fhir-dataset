@@ -2,6 +2,7 @@
 ### Tugas 1 - Proposal
 - [Dokumen proposal v1](https://docs.google.com/document/d/1TyLHWkxW7CfnFsUjsUWcYRa5SYXmfC36/edit?usp=sharing&ouid=110983556134464747544&rtpof=true&sd=true)
 - [Dokumen proposal final](https://docs.google.com/document/d/1CghxdK7C4Y0aUXMg1wqTqn5G9AskP9j8L1m2F_yXrz0/edit?usp=sharing)
+- [Presentasi](https://docs.google.com/presentation/d/1SNH70KXWXs1bhYvs1mVsB4lrx5eZu5fwKCQUXGV7H-U/edit#slide=id.p)
 
 ### Tugas 2 - Dataset
 - Dataset merupakan data sintetis dari aplikasi synthea https://github.com/synthetichealth/synthea
